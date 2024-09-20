@@ -33,7 +33,7 @@ Open on IDE, such as Eclipse
 1. Navigate to the project directory in the terminal: cd path/to/ATMProgram
 2. Compile the source files using command: javac src/*.java -d out/
 3. Run the application: java -cp out Main
-4. Follow on screen instructions to operate application...add tasks, mark tasks as completed, manage to-do list
+4. Follow on screen instructions to operate application
 
 OR
 
