@@ -49,8 +49,8 @@ Contributions welcome. I you'd like to contribute to the project, use following 
 4. Push to branch: git push origin feature/your-feature-name
 5.Create pull request describing your changes 
 
-	Guidelines: Make sure code is well documented
-		          Keep changes focused on single feature/bug fix 
+	Guidelines: Make sure code is well documented,
+		          Keep changes focused on single feature/bug fix, 
 		          Ensure code compiles and runs correctly prior to submitting  
 
 
